@@ -40,14 +40,13 @@ $ cat languages-to-learn.md
 
 &nbsp;
 &nbsp;
-<div align="center"> $ cat stats.md
+$ cat stats.md
 &nbsp;
 &nbsp;
 &nbsp;
 
 
 &nbsp;
-<div align=center>
 <img class="center" src="https://readme-github-stats.now.sh/api?username=HyperASD&theme=blue-green&show&icons=true">
 </center>
 
