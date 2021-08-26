@@ -54,7 +54,7 @@ $ cat languages-to-learn.md
 &nbsp;
 &nbsp;
 &nbsp;
-- 📫 How to reach me: discord: [email](mailto:hyperrr.dev@gmail.com) / [discord] (https://discord.com/users/815278258777358407)
+- 📫 How to reach me: discord: [email](mailto:hyperrr.dev@gmail.com) / [discord](https://discord.com/users/815278258777358407)
 
 &nbsp;
 &nbsp;
