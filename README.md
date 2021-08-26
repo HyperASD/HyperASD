@@ -48,7 +48,7 @@ $ cat stats.md
 &nbsp;
 &nbsp;
 &nbsp;
-- 📫 How to reach me: discord: Hyper Beast#0001
+- 📫 How to reach me: discord: [email](mailto:hyperrr.dev@gmail.com) / discord: Hyper Beast#0001
 
 &nbsp;
 &nbsp;
