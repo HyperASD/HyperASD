@@ -2,7 +2,7 @@
 $ cat aboutme.md
 
 
-### <div align="center">hey, i'm hyper, a web developer from mars</div>  
+### <div align="center">Hey, i'm Hyper, a web developer from Mars</div>  
   
 
 - 🔭 i’m currently working on various projects  
