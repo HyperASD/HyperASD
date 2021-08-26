@@ -40,7 +40,7 @@ $ cat languages-to-learn.md
 
 &nbsp;
 &nbsp;
-$ cat stats.md
+<div align="center"> $ cat stats.md
 &nbsp;
 &nbsp;
 &nbsp;
@@ -54,7 +54,7 @@ $ cat stats.md
 &nbsp;
 &nbsp;
 &nbsp;
-- 📫 How to reach me: discord: [email](mailto:hyperrr.dev@gmail.com) / discord: Hyper Beast#0001
+- 📫 How to reach me: discord: [email](mailto:hyperrr.dev@gmail.com) / [discord] (https://discord.com/users/815278258777358407)
 
 &nbsp;
 &nbsp;
