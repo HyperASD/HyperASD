@@ -63,9 +63,6 @@ $ cat stats.md
 
 &nbsp;
 &nbsp;
-### 🎵 im currently listening to:  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=6hbj29t1rzhh3vbj5xlluye0v&cover_image=true&theme=default)
-<br />
-
+### [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6hbj29t1rzhh3vbj5xlluye0v&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
 
