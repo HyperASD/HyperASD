@@ -1,4 +1,4 @@
-$ cat aboutme.md
+<div align="center"> $ cat aboutme.md
   
 
 ### <div align="center">🚀 hi, im hyper!</div>  
@@ -37,10 +37,9 @@ $ cat stats.md
 
 
 &nbsp;
-
-<img src="https://readme-github-stats.now.sh/api?username=HyperASD&theme=blue-green&show&icons=true" 
-<div align="center">
-
+<div align=center>
+<img class="center" src="https://readme-github-stats.now.sh/api?username=HyperASD&theme=blue-green&show&icons=true">
+</center>
 
 &nbsp;
 &nbsp;
