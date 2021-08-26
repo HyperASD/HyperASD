@@ -2,8 +2,8 @@
 $ cat aboutme.md
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/sheeepdev/sheeepdev/main/images/banner.png" align="center" style="width: 100%" />
-</div>    
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 ### <div align="center">🚀 hi, im hyper!</div>  
   
