@@ -5,16 +5,22 @@ $ cat aboutme.md
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">🚀 hi, im hyper!</div>  
+### <div align="center">hey, i'm hyper, a web developer from mars</div>  
   
 
-<div align="center"> - 🎨 i like gaming and coding.  
+- 🔭 i’m currently working on various projects  
   
-<div align="center"> - 🌱 i’m learning web development
-  
-<div align="center"> - 🔭 goals in the future: create my own programs, contribute to open source projects and much more..
 
-<div align="center"> - ⚡ fun fact: my favorite number is 1
+- 🌱 i’m currently learning js, python and rust  
+  
+
+- ❓ goals in the future: create my own programs, contribute to open source projects and much more.. 
+  
+
+- 🎉 fun fact: i am tiny
+  
+
+<br/>  
   
 
 <br/>  
