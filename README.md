@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm Harshit, a passionate learner and student from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+hi, i'm Hyper, a passionate learner and student from Sugondese. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
