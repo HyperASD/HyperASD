@@ -42,4 +42,6 @@ JSON         9 mins          ▒░░░░░░░░░░░░░░░░
 
 
 📈 my github stats
+<img class="center" src="https://readme-github-stats.now.sh/api?username=HyperASD&theme=blue-green&show&icons=true">
+
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
