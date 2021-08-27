@@ -30,8 +30,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-### [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6hbj29t1rzhh3vbj5xlluye0v&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-📈 my github stats
-
-<p align="left">  <img src="https://readme-github-stats.now.sh/api?username=HyperASD&theme=blue-green&show&icons=true%22%3E
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JSX          7 hrs 57 mins   ████████████████░░░░░░░░░   63.51 % 
+JavaScript   3 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+HTML         49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+```
+<!--END_SECTION:waka-->
