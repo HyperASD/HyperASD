@@ -31,3 +31,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 ### [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6hbj29t1rzhh3vbj5xlluye0v&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+📈 my github stats
+<p align="left">  <img src="https://readme-github-stats.now.sh/api?username=HyperASD&theme=blue-green&show&icons=true%22%3E
