@@ -5,4 +5,4 @@
 <a href="https://open.spotify.com/user/6hbj29t1rzhh3vbj5xlluye0v">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=HyperASD.HyperASD)
+![](https://visitor-badge.glitch.me/badge?page_id=hyperasd.hyperasd)
