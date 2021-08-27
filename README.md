@@ -31,4 +31,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 📈 my github stats
-<p align="center">  <img src="https://readme-github-stats.now.sh/api?username=HyperASD&theme=blue-green&show&icons=true">
+<p align="left">  <img src="https://readme-github-stats.now.sh/api?username=HyperASD&theme=blue-green&show&icons=true">
