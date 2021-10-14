@@ -13,7 +13,6 @@
 hi, i'm Harshit, a passionate learner and student from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
  i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💼 any questions, do reach, [email](mailto:harshit.tripathi1014@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -29,8 +28,6 @@ hi, i'm Harshit, a passionate learner and student from India. My passion for sof
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-
-📈 my github stats
 
 <img class="center" src="https://readme-github-stats.now.sh/api?username=HyperASD&theme=blue-green&show&icons=true">
   
