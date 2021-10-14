@@ -10,9 +10,8 @@
 
 <br />
 
-hi, i'm Hyper, a passionate learner and student from Sugondese. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+hi, i'm Harshit, a passionate learner and student from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+ i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -29,16 +28,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          7 hrs 57 mins   ████████████████░░░░░░░░░   63.51 % 
-JavaScript   3 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-HTML         49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-```
-<!--END_SECTION:waka-->
 
 
 📈 my github stats
